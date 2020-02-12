@@ -5,13 +5,10 @@ import java.util.Stack;
 import java.lang.String;
 
 /**
- *Student : Kristina Upadhaya
- *Class   : CS 2336.501
- *Due Date: April 15, 2018
- *Semester Project 1
+ *Kristina
  *Purpose : This program will allow user to perform programmer calculation.
- * 
  */
+
 public class Programmer_Calculator extends javax.swing.JFrame {
     
     //Declaring variables
